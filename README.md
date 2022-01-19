@@ -11,7 +11,7 @@ yarn install
 yarn dev
 ```
 
-After that, `frontend` can be accessed at `http://localhost:3000`, the storybook for `ui` at `http://localhost:6006` and the backend `api` at `http://localhost:8080`
+After that, `frontend` can be accessed at `http://localhost:3001`, the storybook for `ui` at `http://localhost:6006` and the backend `api` at `http://localhost:8080`
 
 The original aesthetics can be seen here:
 
