@@ -12,3 +12,7 @@ yarn dev
 ```
 
 After that, `frontend` can be accessed at `http://localhost:3000`, the storybook for `ui` at `http://localhost:6006` and the backend `api` at `http://localhost:8080`
+
+The original aesthetics can be seen here:
+
+<img width="922" alt="Screen Shot 2022-01-19 at 2 56 35 AM" src="https://user-images.githubusercontent.com/11192982/150119894-81c9dc06-03d7-4b98-9b85-3756812d401e.png">
